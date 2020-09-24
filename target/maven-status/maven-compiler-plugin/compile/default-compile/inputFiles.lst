@@ -1,0 +1,11 @@
+/Users/heindrichpaul/workspace/SpringProjects/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/controller/BeerController.java
+/Users/heindrichpaul/workspace/SpringProjects/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/repositories/BeerRepository.java
+/Users/heindrichpaul/workspace/SpringProjects/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/controller/MvcExceptionHandler.java
+/Users/heindrichpaul/workspace/SpringProjects/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/mappers/DateMapper.java
+/Users/heindrichpaul/workspace/SpringProjects/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/bootstrap/BeerLoader.java
+/Users/heindrichpaul/workspace/SpringProjects/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/model/BeerDto.java
+/Users/heindrichpaul/workspace/SpringProjects/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/domain/Beer.java
+/Users/heindrichpaul/workspace/SpringProjects/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/model/BeerPagedList.java
+/Users/heindrichpaul/workspace/SpringProjects/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/SfgRestdocsExampleApplication.java
+/Users/heindrichpaul/workspace/SpringProjects/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/model/BeerStyleEnum.java
+/Users/heindrichpaul/workspace/SpringProjects/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/mappers/BeerMapper.java
